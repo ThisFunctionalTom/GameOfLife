@@ -1,0 +1,16 @@
+bin
+obj
+node_modules
+tests-js
+.fable
+.vs
+.ionide
+config.json
+.env
+dist
+output
+bundle
+Server.fsproj.user
+analyzers
+deploy
+.local-chromium
